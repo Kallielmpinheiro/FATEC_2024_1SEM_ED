@@ -1,5 +1,5 @@
 # ED_1SEM_2024
-Bem-vindo ao ED_1SEM_2024, um repositório dedicado ao aprendizado e prática de C++! Este projeto é uma iniciativa para explorar os conceitos fundamentais e avançados da linguagem C++.
+Bem-vindo ao FATEC_2024_1SEM_ED, um repositório dedicado ao aprendizado e prática de C++! Este projeto é uma iniciativa para explorar os conceitos fundamentais e avançados da linguagem C++.
 
 Principais recursos:
 - **Exemplos de Código**: Exemplos de código comentados para entender os princípios básicos e avançados da linguagem. 📖
